@@ -1,0 +1,29 @@
+_repo: The-Bobbsey-Twins-in-a-Great-City_15169
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15169-h/images/cover-tb.jpg
+creator:
+  author:
+    agent_name: Hope, Laura Lee
+    gutenberg_agent_id: '367'
+    url: http://www.gutenberg.org/2009/agents/367
+    wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Twins -- Juvenile fiction'
+- !lcsh 'Bobbsey Twins (Fictitious characters) -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+title: The Bobbsey Twins in a Great City
+url: http://www.gutenberg.org/ebooks/15169
